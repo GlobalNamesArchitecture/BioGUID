@@ -1,14 +1,12 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: BioGUID Blog
+email: pylediver@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+BioGUID is a service for indexing and cross-linking identifiers for data objects within the realm of Biodiversity informatics.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://blog.bioguid.org" # the base hostname & protocol for your site
+twitter_username: globalnames
+github_username:  deepreef
 
 # Build settings
 markdown: kramdown
