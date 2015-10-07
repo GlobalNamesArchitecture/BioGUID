@@ -2,7 +2,8 @@
 title: BioGUID Blog
 email: pylediver@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-BioGUID is a service for indexing and cross-linking identifiers for data objects within the realm of Biodiversity informatics.
+  BioGUID is a service for indexing and cross-linking identifiers for data
+  objects within the realm of Biodiversity informatics.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.bioguid.org" # the base hostname & protocol for your site
 twitter_username: globalnames
