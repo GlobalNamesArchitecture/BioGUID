@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news_item
 title:  "Welcome to Jekyll!"
 date:   2015-10-07 10:49:46
 published: false
