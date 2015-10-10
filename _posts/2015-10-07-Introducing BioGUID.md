@@ -3,6 +3,7 @@ layout: news_item
 title:  "Welcome to BioGUID!"
 date: 2015-10-08 10:34:14
 author: deepreef
+published: false
 categories: gbif
 ---
 
