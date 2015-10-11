@@ -1,4 +1,3 @@
-2014-12-02-Welcome_to_BioGUID!.md
 ---
 layout: news_item
 title: Welcome to BioGUID!
