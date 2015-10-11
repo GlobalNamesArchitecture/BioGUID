@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: "Introducing BioGUID"
+title: "Welcome to BioGUID!"
 date: 2014-12-02 08:06:14
 author: deepreef
 ---
